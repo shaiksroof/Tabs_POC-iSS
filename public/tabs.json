@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Lorem ipsum",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description": "Morbi non lacus nunc. Maecenas sit amet mattis nibh, volutpat semper odio. Nulla a mauris eu purus ultrices aliquam. Cras vel dignissim dolor. Aliquam vel mollis ligula. Mauris blandit vitae libero vel tincidunt. Nam lorem magna, iaculis in ornare ut, commodo eget nunc. Sed a quam ac magna luctus ornare."
+  },
+  {
+    "label": "Quisque at pretium",
+    "title": "Consectetur adipiscing elit, lorem ipsum dolor sit amet.",
+    "description": "Nulla a mauris eu purus ultrices aliquam. Cras vel dignissim dolor. Morbi non lacus nunc. Maecenas sit amet mattis nibh, volutpat semper odio. Mauris blandit vitae libero vel tincidunt. Aliquam vel mollis ligula. Nam lorem magna, iaculis in ornare ut, commodo eget nunc. Sed a quam ac magna luctus ornare."
+  },
+  {
+    "label": "Nulla facilisi",
+    "title": "Dolor sit amet, lorem ipsum, consectetur adipiscing elit.",
+    "description": "Cras vel dignissim dolor. Mauris blandit vitae libero vel tincidunt. Aliquam vel mollis ligula. Morbi non lacus nunc. Maecenas sit amet mattis nibh, volutpat semper odio. Nulla a mauris eu purus ultrices aliquam. Nam lorem magna, iaculis in ornare ut, commodo eget nunc. Sed a quam ac magna luctus ornare."
+  }
+]

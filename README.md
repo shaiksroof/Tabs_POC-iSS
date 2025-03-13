@@ -97,7 +97,7 @@ Follow these steps to set up and run the project:
 
 ## 📂 Project Structure  
 ```
-react-tabs/
+Tabs_POC-iSS/
 ├── src/              # Source code
 ├── public/           # Static assets
 ├── test/             # Unit tests

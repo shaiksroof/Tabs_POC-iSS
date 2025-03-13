@@ -110,19 +110,6 @@ Tabs_POC-iSS/
 └── README.md         # Project documentation
 ```
 
----
-
-## 🌐 Technologies Used  
-✅ **React.js** – UI library  
-✅ **Vite** – Build tool  
-✅ **Redux Toolkit** – State management  
-✅ **Redux Saga** – Side effect management  
-✅ **Vitest** – Testing framework  
-✅ **ESLint** – Code linting  
-✅ **Tailwind CSS** – Styling framework  
-
----
-
 ## 💡 Notes  
 - Ensure Node.js and npm versions match the specified requirements.  
 - Use `npm run lint` to check for linting issues.  

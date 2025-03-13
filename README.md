@@ -61,7 +61,7 @@ Follow these steps to set up and run the project:
 
 2. **Navigate to the project directory:**  
    ```bash
-   cd react-tabs
+   cd Tabs_POC-iSS
    ```
 
 3. **Install dependencies:**  
